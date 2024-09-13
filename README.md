@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sérgio Oliveira is a **Computer Engineer**. He really likes **Go** and **Flutter** languages, and also **Javascript**, Although his preference is for front-end development, he is able to work on both front-end and full-stack projects as well and He loves Flutter to front-end. His coding aims at providing efficiency and scalability. Details and pleasant graphical interfaces are some of his passions.
+Sérgio Oliveira is a Computer Engineer. He likes the languages ​​**Go** and **Flutter** mainly, but also likes **React** and **Javascript**. Although his preference is for front-end development, he is capable of working on back-end and full-stack projects as well. His coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of his passions. He has been working with systems development for 18 years.
 
 #### Main Languages
 
