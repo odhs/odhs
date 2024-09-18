@@ -55,7 +55,7 @@ Passionate about arts and technology, some of my hobbies are games, watching, re
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - Developer vector created by <a href="https://www.freepik.com/free-vector/gamer-playing-with-computer_4911336.htm#fromView=search&page=1&position=45&uuid=90ffdfad-036a-4b33-a00c-16a83d964f02">storyset - www.freepik.com</a> (edited by author)
+  - Image vector created by <a href="https://www.freepik.com/free-vector/gamer-playing-with-computer_4911336.htm#fromView=search&page=1&position=45&uuid=90ffdfad-036a-4b33-a00c-16a83d964f02">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with 💜 by <a href="https://github.com/odhs">SHDO</a>.</div>
 </details>
