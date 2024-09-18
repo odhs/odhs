@@ -15,36 +15,39 @@ Passionate about arts and technology, some of my hobbies are games, watching, re
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=48cfcb&color:FFF)](https://www.linkedin.com/in/shdo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=48cfcb&color:FFF)](https://www.instagram.com/shdomusic/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=48cfcb&color:FFF)](https://www.youtube.com/@shdomusic)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=48cfcb&color:FFF)](https://music.youtube.com/channel/UC4p72c8TUifU8gx9-B3K44w)
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-000?style=flat&logo=soundcloud&logoColor=48cfcb&color:FFF)](https://www.soundcloud.com/shdomusic)
+[![Spotify](https://img.shields.io/badge/-Spotify-000?style=flat&logo=spotify&logoColor=48cfcb&color:FFF)](https://open.spotify.com/artist/036166xY7AbrzdJs7DDyMD)
+[![AmazonMusic](https://img.shields.io/badge/-Amazon_Music-000?style=flat&logo=amazonmusic&logoColor=48cfcb&color:FFF)](https://music.amazon.com.br/artists/B07TB72MSG/shdo)
 
 ## Hard Skills
 
-#### Main Languages
+### Main Languages
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### Secondary Languages
+### Secondary Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-#### Databases
+### Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat&logo=sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=flat&logo=mongodb&logoColor=4ea94b)
 
-#### Frameworks
+### Frameworks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-#### Technologies and Tools
+### Technologies and Tools
 
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1d63ed)
@@ -52,10 +55,11 @@ Passionate about arts and technology, some of my hobbies are games, watching, re
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)
 
 <details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - Image vector created by <a href="https://www.freepik.com/free-vector/gamer-playing-with-computer_4911336.htm#fromView=search&page=1&position=45&uuid=90ffdfad-036a-4b33-a00c-16a83d964f02">storyset - www.freepik.com</a> (edited by author)
- 
+  <summary></summary>
+
+- Badges by <a href="https://shields.io/">shields.io</a><br>
+- Image vector created by <a href="https://www.freepik.com/free-vector/gamer-playing-with-computer_4911336.htm#fromView=search&page=1&position=45&uuid=90ffdfad-036a-4b33-a00c-16a83d964f02">storyset - www.freepik.com</a> (edited by author)
+
   <div align="right">Made with 💜 by <a href="https://github.com/odhs">SHDO</a>.</div>
+
 </details>
