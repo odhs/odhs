@@ -9,13 +9,15 @@
 
 I am Sérgio Oliveira, a Computer Engineer. I like the languages ​​**Go** and **Flutter** mainly, but also like **React** and **Javascript**. My preference is for front-end development, but I am capable of working on back-end and full-stack projects as well. My coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of my passions. I have been working with systems development for 18 years.
 
-Passionate about arts and technology, some of my hobbies are games, watching, reading, composing and play songs on my synthesizers.
+Passionate about arts and technology, some of my hobbies are games, watching, reading, composing and play songs on my synthesizers <a href="https://www.instagram.com/shdomusic/">(@shdomusic)</a>
 
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=48cfcb&color:FFF)](https://www.linkedin.com/in/shdo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=48cfcb&color:FFF)](https://www.instagram.com/shdomusic/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=48cfcb&color:FFF)](https://www.youtube.com/@shdomusic)
+
+## Hard Skills
 
 #### Main Languages
 
