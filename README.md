@@ -24,7 +24,7 @@ Passionate about arts and technology, some of my hobbies are reading, music comp
 
 ### Main Languages
 
-Languages ​​I used in most projects.
+Programming languages ​​I have used to solve current problems.
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -33,7 +33,7 @@ Languages ​​I used in most projects.
 
 ### Secondary Languages
 
-Languages ​​I used to address specific problems.
+Programming languages ​​I've used to address specific problems and also ones I've used in the past.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
