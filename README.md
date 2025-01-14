@@ -1,5 +1,5 @@
 
-<img align="right" alt="SHDO Logo" height="380" src="https://github.com/user-attachments/assets/1ae34d48-df1c-4062-80f9-4cb39cc6cc1f">
+<img align="right" alt="SHDO Logo" height="280" src="https://github.com/user-attachments/assets/1ae34d48-df1c-4062-80f9-4cb39cc6cc1f">
 
 <h1>
     <a href="https://elidianaandrade.github.io/">
