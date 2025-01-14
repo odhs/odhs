@@ -1,7 +1,7 @@
 
-<img align="right" alt="SHDO Logo" height="380" src="https://github.com/user-attachments/assets/bd958f52-c737-4db1-bab7-f0ee8231c3bf">
+<img align="right" alt="SHDO Logo" height="380" src="https://github.com/user-attachments/assets/1ae34d48-df1c-4062-80f9-4cb39cc6cc1f">
 
-<h1 style="border-bottom: none;">
+<h1>
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Sérgio Oliveira" width="36px" src="https://github.com/user-attachments/assets/d849f62a-ab63-4514-885c-2c83eb730b00"></a>
     <span>Sérgio Oliveira</span>
