@@ -1,7 +1,7 @@
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/user-attachments/assets/bd958f52-c737-4db1-bab7-f0ee8231c3bf">
+<img align="right" alt="SHDO Logo" height="380" src="https://github.com/user-attachments/assets/bd958f52-c737-4db1-bab7-f0ee8231c3bf">
 
-<h1>
+<h1 style="border-bottom: none;">
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Sérgio Oliveira" width="36px" src="https://github.com/user-attachments/assets/d849f62a-ab63-4514-885c-2c83eb730b00"></a>
     <span>Sérgio Oliveira</span>
@@ -62,7 +62,7 @@ Programming languages ​​I've used to address specific problems and also ones
   <summary></summary>
 
 - Badges by <a href="https://shields.io/">shields.io</a><br>
-- Image vector created by <a href="https://www.freepik.com/free-vector/gamer-playing-with-computer_4911336.htm#fromView=search&page=1&position=45&uuid=90ffdfad-036a-4b33-a00c-16a83d964f02">storyset - www.freepik.com</a> (edited by author)
+- Image created by <a href="https://instagram.com/shdomusic">SHDO</a>
 
   <div align="right">Made with 💜 by <a href="https://github.com/odhs">SHDO</a>.</div>
 
