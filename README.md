@@ -37,7 +37,6 @@ Programming languages ​​I've used to address specific problems and also ones
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
@@ -67,15 +66,25 @@ Programming languages ​​I've used to address specific problems and also ones
 ![Figma](https://img.shields.io/badge/Figma-696969?style=flat&logo=figma&logoColor=figma)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)
 
-## Marcação e Estilo
+### Marcação e Estilo
 
-Pode ser estranho, mas eu amo as possibilidades que estas linguagens de marcação trouxeram para o mundo. 
-E adoro fazer coisas criativas com elas
+It may be strange to say this, but I love the possibilities that these markup languages ​​have brought to the world. And I love doing creative things with them.
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
+## Soft Skills
+
+It's also strange to mention this, because I like to do it and let people know that these things happen, but since you may not know me at all it's interesting that you know what I can offer.
+
+- Design Projects and Marketing Plans
+- Inspirational Leadership and Team Management
+- Strategic Vision and Decision Making
+- Communication and Engagement Skills
+- Social Responsibility and Empathy
+- Mentoring and Teaching
+- Project Management and Problem Solving
 
 <details align="left">
   <summary></summary>
