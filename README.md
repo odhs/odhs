@@ -7,7 +7,7 @@
     <span>Sérgio Oliveira</span>
 </h1>
 
-I am Sérgio Oliveira, a Computer Engineer. I like the languages ​​**Go** and **Flutter** mainly, but also like **React** and **Javascript**. I am capable of working on front or back-end and full-stack projects as well. I try coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of my passions. I have been working with systems development for 19 years.
+I am Sérgio Oliveira, a Computer Engineer. I like the languages ​​**Go** and **Dart**/**Flutter** mainly, but also like **Javascript**/**React**. I am capable of working on front or back-end and full-stack projects as well. I try coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of my passions. I have been working with systems development for 19 years.
 
 Passionate about technology and arts, some of my hobbies are reading, music composing and playing my synthesizers, you can see my work at <a href="https://shdo.com.br/">www.shdo.com.br</a> and on my Instagram <a href="https://www.instagram.com/shdomusic/">(@shdomusic)</a>
 
