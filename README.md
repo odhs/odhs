@@ -1,15 +1,18 @@
 
 <img align="right" alt="SHDO Logo" height="300" width="300" src="https://github.com/user-attachments/assets/2eb8fd18-d58e-45de-8691-df9502a6af6c">
 
-<h1>
+<h3>
     <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Sérgio Oliveira" width="36px" height="36px" src="https://github.com/user-attachments/assets/6ca1f936-789a-44f8-b8cf-999e7550c177"></a>
-    <span>Sérgio Oliveira</span>
-</h1>
+     <img align="center" alt="Logo Sérgio Oliveira" width="36px" height="36px" src="https://github.com/user-attachments/assets/6ca1f936-789a-44f8-b8cf-999e7550c177">
+    <strong>SÉRGIO OLIVEIRA</strong>
+        </a>
+</h3>
 
-I am Sérgio Oliveira, a Computer Engineer. I like the languages ​​**Go** and **Dart**/**Flutter** mainly, but also like **Javascript**/**React**. I am capable of working on front or back-end and full-stack projects as well. I try coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of my passions. I have been working with systems development for 19 years.
+I am Sérgio Oliveira, a Computer Engineer. I like the languages ​​**Go**, **Javascript**, **Dart/Flutter**, **React.JS**, but also like **Vue.js**, **Next.JS** and **Nest.JS**. I am capable of working on front or back-end and full-stack projects as well. I try coding aims to provide efficiency and scalability and serve the business. Details, practicality, nice graphical interfaces are some of my passions. I have been working with systems development for 19 years.
 
-Passionate about technology and arts, some of my hobbies are reading, music composing and playing my synthesizers, You can listen to my music at <a href="https://shdo.com.br/">www.shdo.com.br</a> and on my Instagram <a href="https://www.instagram.com/shdomusic/">(@shdomusic)</a>
+In Go I like the *gin* and *fiber* frameworks, of course, it depends on the project, which can even be just in pure Go. I'm open to any technology. The modular monolith growing with DDD seems to be the right thing to do for new projects.
+
+Passionate about technology and arts, some of my hobbies are reading, music composing and playing my synthesizers, You can listen to my music at <a href="https://shdo.com.br/">www.shdo.com.br</a> and on my Instagram <a href="https://www.instagram.com/shdomusic/">(@shdomusic)</a> and I also really like amusement parks.
 
 ### Connect with me
 
